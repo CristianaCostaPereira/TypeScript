@@ -5,4 +5,4 @@ With lite-server installed:
 <br>
 ``npm start`` to run the project
 
-Then, ``tsc file-name.ts`` to compile its js file.
+Then, ``tsc file-name.ts --w`` to compile its js file.
