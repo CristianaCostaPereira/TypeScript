@@ -10,6 +10,6 @@ With lite-server installed:
 ``tsc --init`` to create the tsconfig.json file;
 <br>
 4. Then, ``tsc`` to compile its js file.
-5. Finally ``tsc -w`` to compile whenever a TS file is changed (created dist folder);
+5. Finally ``tsc -w`` to start the TypeScript compilation process whenever a TS file is changed (dist folder created);
 
 (If the path 2 were skipped, then, ``tsc file-name.ts --w`` to compile its js file.)
